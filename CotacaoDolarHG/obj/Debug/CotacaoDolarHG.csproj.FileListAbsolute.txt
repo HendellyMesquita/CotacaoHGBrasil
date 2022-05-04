@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.exe.config
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.exe
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.pdb
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.FrmCotacaoDolar.resources
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.Properties.Resources.resources
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.CopyComplete
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.exe
+C:\Users\usuario\source\repos\CotacaoDolarHG\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.pdb
